@@ -4,7 +4,7 @@
 
 ### 1. Short Answer Questions.
 
-* Question 1. * : Explain how AI-driven code generation tools (e.g., GitHub Copilot) reduce development time. What are their limitations?
+*Question 1.* : Explain how AI-driven code generation tools (e.g., GitHub Copilot) reduce development time. What are their limitations?
   
 * Answer *
    
